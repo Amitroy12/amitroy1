@@ -14,7 +14,7 @@
                 "identifier": "false"
             },
             {
-                "name": "justdial",
+                "name": "Banko",
                 "method": "GET",
                 "url": "https://t.justdial.com/api/india_api_write/18july2018/sendvcode.php",
                 "params": {
@@ -23,7 +23,7 @@
                 "identifier": "sent"
             },
             {
-                "name": "frotels",
+                "name": "banko",
                 "method": "POST",
                 "url": "https://www.frotels.com/appsendsms.php",
                 "data": {
@@ -32,7 +32,7 @@
                 "identifier": "sent"
             },
             {
-                "name": "gapoon",
+                "name": "icream",
                 "method": "POST",
                 "url": "https://www.gapoon.com/userSignup",
                 "data": {
@@ -43,7 +43,7 @@
                 "identifier": "1"
             },
             {
-                "name": "housing",
+                "name": "airtal",
                 "method": "POST",
                 "url": "https://login.housing.com/api/v2/send-otp",
                 "data": {
@@ -52,7 +52,7 @@
                 "identifier": "Sent"
             },
             {
-                "name": "porter",
+                "name": "airtal",
                 "method": "POST",
                 "url": "https://porter.in/restservice/send_app_link_sms",
                 "data": {
@@ -63,7 +63,7 @@
                 "identifier": "true"
             },
             {
-                "name": "cityflo",
+                "name": "airtel",
                 "method": "POST",
                 "url": "https://cityflo.com/website-app-download-link-sms/",
                 "data": {
@@ -72,7 +72,7 @@
                 "identifier": "sent"
             },
             {
-                "name": "nnnow",
+                "name": "airtal",
                 "method": "POST",
                 "url": "https://api.nnnow.com/d/api/appDownloadLink",
                 "data": {
@@ -81,11 +81,11 @@
                 "identifier": "true"
             },
             {
-                "name": "ajio",
+                "name": "airtal",
                 "method": "POST",
                 "url": "https://login.web.ajio.com/api/auth/signupSendOTP",
                 "data": {
-                    "firstName": "xxps",
+                    "firstName": "airtal",
                     "login": "wiqpdl223@wqew.com",
                     "password": "QASpw@1s",
                     "genderType": "Male",
@@ -95,7 +95,7 @@
                 "identifier": "1"
             },
             {
-                "name": "happyeasygo",
+                "name": "airtal",
                 "method": "GET",
                 "url": "https://www.happyeasygo.com/heg_api/user/sendRegisterOTP.do",
                 "params": {
@@ -104,7 +104,7 @@
                 "identifier": "true"
             },
             {
-                "name": "unacademy",
+                "name": "airtal",
                 "method": "POST",
                 "url": "https://unacademy.com/api/v1/user/get_app_link/",
                 "data": {
@@ -113,7 +113,7 @@
                 "identifier": "sent"
             },
             {
-                "name": "treebo",
+                "name": "airtal",
                 "method": "POST",
                 "url": "https://www.treebo.com/api/v2/auth/login/otp/",
                 "data": {
@@ -132,7 +132,7 @@
                 "identifier": "Success"
             },
             {
-                "name": "pharmeasy",
+                "name": "jano",
                 "method": "POST",
                 "url": "https://pharmeasy.in/api/auth/requestOTP",
                 "json": {
@@ -141,7 +141,7 @@
                 "identifier": "resendSmsCounter"
             },
             {
-                "name": "mylescars",
+                "name": "jani",
                 "method": "POST",
                 "url": "https://www.mylescars.com/usermanagements/chkContact",
                 "data": {
@@ -150,7 +150,7 @@
                 "identifier": "success@::::"
             },
             {
-                "name": "grofers",
+                "name": "jani",
                 "method": "POST",
                 "url": "https://grofers.com/v2/accounts/",
                 "data": {
@@ -162,7 +162,7 @@
                 "identifier": "We have sent"
             },
             {
-                "name": "dream11",
+                "name": "janu",
                 "method": "POST",
                 "url": "https://api.dream11.com/sendsmslink",
                 "data": {
@@ -173,7 +173,7 @@
                 "identifier": "true"
             },
             {
-                "name": "cashify",
+                "name": "janu",
                 "method": "GET",
                 "url": "https://www.cashify.in/api/cu01/v1/app-link",
                 "params": {
@@ -182,7 +182,7 @@
                 "identifier": "Successfully"
             },
             {
-                "name": "paytm",
+                "name": "jany",
                 "method": "POST",
                 "url": "https://commonfront.paytm.com/v4/api/sendsms",
                 "data": {
@@ -192,7 +192,7 @@
                 "identifier": "202"
             },
             {
-                "name": "kfc-in",
+                "name": "jani",
                 "method": "POST",
                 "url": "https://online.kfc.co.in/OTP/ResendOTPToPhoneForLogin",
                 "headers": {
@@ -207,7 +207,7 @@
                 "identifier": "true"
             },
             {
-                "name": "indialends",
+                "name": "jani",
                 "method": "POST",
                 "url": "https://indialends.com/internal/a/mobile-verification_v2.ashx",
                 "cookies": {
@@ -243,7 +243,7 @@
         ],
         "multi": [
             {
-                "name": "flipkart",
+                "name": "krishna",
                 "method": "POST",
                 "cc_target": "loginId",
                 "url": "https://www.flipkart.com/api/5/user/otp/generate",
@@ -258,7 +258,7 @@
                 "identifier": "emailMask"
             },
             {
-                "name": "qlean",
+                "name": "krishna",
                 "method": "POST",
                 "url": "https://qlean.ru/clients-api/v2/sms_codes/auth/request_code",
                 "data": {
@@ -267,7 +267,7 @@
                 "identifier": "request_id"
             },
             {
-                "name": "mailru",
+                "name": "kirshna",
                 "method": "POST",
                 "url": "https://cloud.mail.ru//api/v2/notify/applink",
                 "data": {
@@ -279,7 +279,7 @@
                 "identifier": "200"
             },
             {
-                "name": "tinder",
+                "name": "kirshna",
                 "method": "POST",
                 "url": "https://api.gotinder.com/v2/auth/sms/send",
                 "params": {
@@ -292,7 +292,7 @@
                 "identifier": "200"
             },
             {
-                "name": "youla",
+                "name": "kirshna",
                 "method": "POST",
                 "url": "https://youla.ru/web-api/auth/request_code",
                 "data": {
@@ -301,7 +301,7 @@
                 "identifier": ":6"
             },
             {
-                "name": "ivi",
+                "name": "krinsha",
                 "method": "POST",
                 "url": "https://api.ivi.ru/mobileapi/user/register/phone/v6",
                 "data": {
@@ -310,7 +310,7 @@
                 "identifier": "true"
             },
             {
-                "name": "delitime",
+                "name": "krishna",
                 "method": "POST",
                 "url": "https://api.delitime.ru/api/v2/signup",
                 "data": {
@@ -320,7 +320,7 @@
                 "identifier": "true"
             },
             {
-                "name": "icq",
+                "name": "kirshna",
                 "method": "POST",
                 "url": "https://www.icq.com/smsreg/requestPhoneValidation.php",
                 "data": {
@@ -332,7 +332,7 @@
                 "identifier": "200"
             },
             {
-                "name": "ivitv",
+                "name": "krishna",
                 "method": "POST",
                 "url": "https://api.ivi.ru/mobileapi/user/register/phone/v6/",
                 "data": {
@@ -343,7 +343,7 @@
                 "identifier": "true"
             },
             {
-                "name": "indialends",
+                "name": "krishna",
                 "method": "POST",
                 "url": "https://indialends.com/internal/a/mobile-verification_v2.ashx",
                 "cookies": {
@@ -377,7 +377,7 @@
                 "identifier": "1"
             },
             {
-                "name": "redbus",
+                "name": "krishna",
                 "method": "GET",
                 "url": "https://m.redbus.in/api/getOtp",
                 "params": {
@@ -388,7 +388,7 @@
                 "identifier": "200"
             },
             {
-                "name": "newtonschools",
+                "name": "krishna",
                 "method": "POST",
                 "url": "https://my.newtonschool.co:443/api/v1/user/otp/",
                 "params":{
@@ -404,7 +404,7 @@
     "call": {
         "91": [
             {
-                "name": "makaan",
+                "name": "krishna",
                 "method": "GET",
                 "url": "https://www.makaan.com/apis/nc/sendOtpOnCall/16257065/{target}",
                 "params": {
@@ -413,7 +413,7 @@
                 "identifier": "2XX"
             },
             {
-                "name": "realestate",
+                "name": "krinshna",
                 "method": "POST",
                 "url": "https://www.realestateindia.com/mobile-script/indian_mobile_verification_form.php",
                 "headers": {
@@ -434,7 +434,7 @@
                 "identifier": "Y"
             },
             {
-                "name": "magicbricks",
+                "name": "krishna",
                 "method": "GET",
                 "url": "https://api.magicbricks.com/bricks/verifyOnCall.html",
                 "params": {
@@ -443,7 +443,7 @@
                 "identifier": "callmade"
             },
             {
-                "name": "career360",
+                "name": "krishna",
                 "method": "POST",
                 "url": "https://www.careers360.com/ajax/no-cache/user/otp-send",
                 "cookies": {
